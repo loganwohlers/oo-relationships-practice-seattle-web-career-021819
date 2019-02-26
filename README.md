@@ -8,8 +8,10 @@ This repo contains domains for practicing building Object-Oriented Relationships
 - [Airbnb](./exercises/airbnb.md)
 - [Bakery](./exercises/bakery.md)
 - [Lyft](./exercises/lyft.md)
+
 #### Medium
 - [IMDB](./exercises/imdb.md)
+
 #### Hard
 - [Crowdfunding](./exercises/crowdfunding.md)
 - [Gym](./exercises/gym.md)
